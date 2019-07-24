@@ -4,7 +4,7 @@
 
 ## Connecting
 
-[**Instructor: Joe San Pietro** - brandon.lewis@flatironschool.com](mailto:brandon.lewis@flatironschool.com)
+[**Instructor: Brandon Lewis** - brandon.lewis@flatironschool.com](mailto:brandon.lewis@flatironschool.com)
 
 [**Student Services Email** - studentservices@flatironschool.com](mailto:studentservices@flatironschool.com)
 
