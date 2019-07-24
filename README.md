@@ -12,9 +12,9 @@
 
 ## Resources
 
-[**1 on 1s with instructor-name-here - Instructor**](https://go.oncehub.com/11MeetingsPT)
+[**1 on 1s with Brandon - Instructor**](https://go.oncehub.com/11MeetingsPT)
 
-[**1 on 1s with edcoach-name-here - Education Coach**](https://valeriejiggetts.youcanbook.me/)
+[**1 on 1s with Valerie - Education Coach**](https://valeriejiggetts.youcanbook.me/)
 
 [**Student Resources Spreadsheet**](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=666583018)
 
