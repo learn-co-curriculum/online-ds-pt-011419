@@ -20,7 +20,9 @@
 
 [**PT Cohort Folder Link**](https://drive.google.com/open?id=1_-DkH5zGKIG-w01wRnzsJ_TAg9Mgasgj)
 
-[**PT Study Group Recordings**](https://drive.google.com/open?id=1AEoyyu-5BS-XokcqPZuLxbxvHSS0qQkiuHUZtbnR3To)
+[**PT Study Group Recordings Spreadsheet**](https://drive.google.com/open?id=1AEoyyu-5BS-XokcqPZuLxbxvHSS0qQkiuHUZtbnR3To)
+
+[**PT Study Group Recording YouTube Channel**] (https://www.youtube.com/playlist?list=PLujiF_skwVUvSg4_vx-yuuvk2bC8vojo_)
 
 [**Flatiron Online Data Science Program Guide**](https://drive.google.com/file/d/19A8VN5AIjTfF0iayuW__elrVGb5_d7Bh/view?usp=sharing)
 
